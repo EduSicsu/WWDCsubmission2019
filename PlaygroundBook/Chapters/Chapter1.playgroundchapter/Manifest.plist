@@ -6,6 +6,7 @@
 	<string>ChapterOneName</string>
 	<key>Pages</key>
 	<array>
+		<string>ThirdPage.playgroundpage</string>
 		<string>PlaygroundPage.playgroundpage</string>
 		<string>SecondPage.playgroundpage</string>
 	</array>
