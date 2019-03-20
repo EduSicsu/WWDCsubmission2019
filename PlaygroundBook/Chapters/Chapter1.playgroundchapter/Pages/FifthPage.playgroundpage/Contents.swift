@@ -7,10 +7,10 @@
  To understand a little bit about Nick's life, you can change the variable to see the colors he sees, or even colors that other types of color blind people see.
  
  To do this use the variable below and change the element (colorNormal) to see other colors
- Nick has color blindness: Deuteranopia
  
  [Please click here to go to the next page.](@next)
 
  */
+//  Nick has color blindness: Deuteranopia 
 
 let str = "Hello, playground"
