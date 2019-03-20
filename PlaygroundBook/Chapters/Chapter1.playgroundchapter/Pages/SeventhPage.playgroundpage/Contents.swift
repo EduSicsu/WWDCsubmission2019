@@ -1,12 +1,18 @@
 /*:
  
- #  Im a the seventh page sir
+ #  Let's meet our new friend
  
- Welcome, today we gonna talk a little bit about accessibility, and how important it is for everybody, especially for us. In this world we got people who do not have the same opportunities like us, they has limitations.
+ Well, now we have Sonny. He is a more serious but very caring person, he is blind since birth and faces one world that is not fit for him.
  
- But these is not a problem, because they're still sensational, because they can do amazing things and provide life experiences you won't believe.
+ Like many blind people he's got problems using apps not adapted. In Apple devices we got voiceOver, one powerful screen reader, However it only reads the name given to the elements
  
- This playgrounds is for them
+ 
+ 
+ ### Now, you can test how voiceOver works:
+ 
+ 
+ [Please click here to go to the next page.](@next)
+
 */
 
 let str = "Hello, playground"

@@ -1,12 +1,12 @@
 /*:
  
- #  Im a the ninth page sir
-  
- Welcome, today we gonna talk a little bit about accessibility, and how important it is for everybody, especially for us. In this world we got people who do not have the same opportunities like us, they has limitations.
+ #   Nice, you helped them!
  
- But these is not a problem, because they're still sensational, because they can do amazing things and provide life experiences you won't believe.
  
- This playgrounds is for them
-*/
+ That is very good, and even if they are fictitious characters we are dealing with real situations, real people who are there in the world.
+ 
+ Thinking about them from the beginning of the project is not to guard just against problems. It's making the experience that we're creating absolutely fantastic for everyone.
+ Everyone has the right to have the best possible immersion in an app, so give it to them!
+ 
+ ### That's all, folks! Thank you! */
 
-let str = "Hello, playground"

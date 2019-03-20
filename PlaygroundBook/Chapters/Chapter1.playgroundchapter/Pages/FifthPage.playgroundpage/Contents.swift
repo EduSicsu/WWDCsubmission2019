@@ -1,12 +1,16 @@
 /*:
  
- #  Im a the Fifth page sir
+ #  Let's meet another one
   
- Welcome, today we gonna talk a little bit about accessibility, and how important it is for everybody, especially for us. In this world we got people who do not have the same opportunities like us, they has limitations.
+ We reached the second step, and I introduce Nick, he is the kind person who has color blindness which disturbs his life a lot. Often the colors that people use to identify things are very disturbing for him.
  
- But these is not a problem, because they're still sensational, because they can do amazing things and provide life experiences you won't believe.
+ To understand a little bit about Nick's life, you can change the variable to see the colors he sees, or even colors that other types of color blind people see.
  
- This playgrounds is for them
-*/
+ To do this use the variable below and change the element (colorNormal) to see other colors
+ Nick has color blindness: Deuteranopia
+ 
+ [Please click here to go to the next page.](@next)
+
+ */
 
 let str = "Hello, playground"

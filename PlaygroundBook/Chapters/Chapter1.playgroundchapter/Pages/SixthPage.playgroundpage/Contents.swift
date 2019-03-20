@@ -1,12 +1,13 @@
 /*:
  
- #  Im a the sixth page sir
+ #  Let's help Nick
   
- Welcome, today we gonna talk a little bit about accessibility, and how important it is for everybody, especially for us. In this world we got people who do not have the same opportunities like us, they has limitations.
+Our mission now is helping them to differentiate colors, a good tip is inserting patterns so that the information for it is clear.
  
- But these is not a problem, because they're still sensational, because they can do amazing things and provide life experiences you won't believe.
+ Your job here, it's replace the element colorNormal by elements with patterns:
  
- This playgrounds is for them
+ [Please click here to go to the next page.](@next)
+
 */
 
 let str = "Hello, playground"

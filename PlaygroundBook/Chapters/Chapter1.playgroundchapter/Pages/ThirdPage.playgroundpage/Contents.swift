@@ -11,7 +11,16 @@
  
  And lot more, and for an application to be accessible to certain audiences. Now we're going to help some people applying basic concepts of these tools above.
  
- And in this playground we will learn some basic concepts of how helping people using: ˜Display Customization˜ and ˜VoiceOver˜.
+ And in this playground we will learn some basic concepts of how helping people using:
  
+ - Display Customization
+ - VoiceOver
+ 
+ 
+ 
+ 
+ 
+ 
+ [Please click here to go to the next page.](@next)
  */
-let str = "Hello, playground"
+

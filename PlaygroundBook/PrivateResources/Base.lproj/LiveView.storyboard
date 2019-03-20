@@ -62,7 +62,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="ATD-Kj-Bfu" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="-239" y="785"/>
+            <point key="canvasLocation" x="-239.19999999999999" y="784.85757121439292"/>
         </scene>
         <!--Book Sources Live View Controller-->
         <scene sceneID="1sB-v3-4Wd">
