@@ -8,7 +8,7 @@
 import UIKit
 import PlaygroundSupport
 
-private let liveViewIdentifier: String = "FirstPage"
+private let liveViewIdentifier: String = "FifthPage"
 
 // Instantiate a new instance of the live view from the book's auxiliary sources and pass it to PlaygroundSupport.
 PlaygroundPage.current.liveView = instantiateLiveView(identifier: liveViewIdentifier)

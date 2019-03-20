@@ -1,11 +1,12 @@
 /*:
  
- # About me
+ # Sup people
  
- First of wall, my name is Eduardo Oliveira Lopes, I have 22 years old and I'm design student. So, nice to meet you.
+ First of all, my name is Eduardo Oliveira Lopes,  I am 22 years old and I'm a design student. So, nice to meet you.
  
- In less than one year everything has completely changed in my life, and I have no idea how important is accessibility, after that I researched a lot about this, and I also discovered the developers do not give the value they should for that topic.
+ In less than one year everything has completely changed in my life, and before I had no idea how accessibility is important, then I researched a lot about this, and I also found out that most of time developers do not give the value they should for that topic.
  
- I felt bad for this, so many people are ignored I needed to do something about that, so when the submissions for the scholarship were opened. I did not think twice about what the theme of my project would be.
+ It made me feel bad, so many people are ignored and I needed to do something about that, so when the submissions for the scholarship opened, I did not think twice about which the theme of my project would be.
+ 
  */
-let str = "Hello, playground"
+// let str = "Hello, playground"
